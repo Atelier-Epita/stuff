@@ -48,11 +48,13 @@ Nous mettons à disposition (sous certaines conditions) de la résine et des pro
 
 + Jumpers, résistances, boutons poussoirs, leds, gaines...
 + Lots de capteurs en tout genres (humidité, lumière, mouvement, température...)
++ Servomoteurs
 
 ### Outils:
 
 + Fers à souder
 + Alimentation variable
++ Kits d'outils élec (IFixIt)
 
 ### Appareils de mesures:
 
@@ -73,12 +75,14 @@ Nous mettons à disposition (sous certaines conditions) de la résine et des pro
 + Ponceuse
 + Pistolet thermique
 + Meuleuse
++ Dremel
++ Défonceuse
 
 ### Outils de bricolage
 
 + Tournevis
 + Marteau
-+ Lots de pinces
++ Lots de pinces (coupantes, dénudeuse, )
 + Rapes et limes,
 + Scie écoïne, scie à métaux
 + Jeu de clefs plates
@@ -87,6 +91,9 @@ Nous mettons à disposition (sous certaines conditions) de la résine et des pro
 + Pistolets à colle chaude,
 + Cutter
 + Ciseaux à bois
++ Riveteuse
++ Agrafeuse à bois
++ 
 + ...
 
 ## Equipements de Protection Individuels
