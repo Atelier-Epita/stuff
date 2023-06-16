@@ -101,6 +101,7 @@ Nous mettons à disposition (sous certaines conditions) de la résine et des pro
 + Lunettes de protections
 + Gants de protections et gants anti-coupe
 + Boiuchons d'oreilles & casque anti-bruit
++ Masque FFP2
 
 ## Kiosque numérique:
 
